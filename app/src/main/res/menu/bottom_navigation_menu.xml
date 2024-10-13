@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_screen_text"/>
+    <item
+        android:id="@+id/ic_map"
+        android:enabled="true"
+        android:icon="@drawable/ic_map"
+        android:title="@string/maps_screen_text"/>
+    <item
+        android:id="@+id/ic_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/config_screen_text"/>
+</menu>

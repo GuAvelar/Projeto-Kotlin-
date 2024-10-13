@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <!-- Modifique as propriedades conforme necessário -->
+        <item name="tabIndicatorColor">@color/black</item> <!-- Cor do indicador de aba -->
+        <item name="tabRippleColor">@color/black</item> <!-- Cor do efeito de toque -->
+        <item name="tabSelectedTextColor">@color/black</item> <!-- Cor do texto da aba selecionada -->
+        <item name="tabTextColor">@color/black</item> <!-- Cor do texto das abas não selecionadas -->
+        <item name="tabBackground">@color/white</item> <!-- Cor de fundo das abas -->
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28444033786",
+    "project_id": "pi3-grupo-14",
+    "storage_bucket": "pi3-grupo-14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28444033786:android:3ab510ab43e9c091a13f43",
+        "android_client_info": {
+          "package_name": "br.com.projetointegrador.keepsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD_pCAiHmI1B-D9qc30MxwfnBzu-iUwJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
